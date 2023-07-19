@@ -1,0 +1,9 @@
+numpy
+pandas
+sklearn
+scikit-learn
+matplotlib
+seaborn
+notebook
+jupyterlab
+tensorflow==2.9.3
