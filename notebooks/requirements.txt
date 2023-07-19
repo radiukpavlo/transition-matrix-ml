@@ -7,3 +7,5 @@ seaborn
 notebook
 jupyterlab
 tensorflow==2.9.3
+pydot
+graphviz
