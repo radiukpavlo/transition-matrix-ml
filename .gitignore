@@ -1,2 +1,6 @@
 
 notebooks/mnist_flattened.csv
+projects/projects_temp-data/matrix_B_calculated_test.csv
+projects/projects_temp-data/matrix_B_calculated_train.csv
+projects/projects_temp-data/matrix_B_final_test.csv
+projects/projects_temp-data/matrix_B_final_train.csv
